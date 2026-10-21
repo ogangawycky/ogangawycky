@@ -1,4 +1,4 @@
-# Hi, I'm Wycliffe 👋
+# Hi, I'm Wycliffe
 
 **Senior Full-Stack Developer** in Nairobi, Kenya. I build fintech products end to end: the Figma design, the database, the API, and the Linux server it runs on.
 
