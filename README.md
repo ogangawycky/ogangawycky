@@ -32,4 +32,4 @@ I lead the web development team at **Westminster Pay**, working on remittance, p
 
 ### Get in touch
 
-📧 ogangawycky@gmail.com · 📍 Nairobi, Kenya
+📧 oganga.wycliffe006@gmail.com · 📍 Nairobi, Kenya
